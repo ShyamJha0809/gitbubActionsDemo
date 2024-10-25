@@ -1,2 +1,2 @@
-# gitbubActionsDemo
+# githubActionsDemo
 Hands on
